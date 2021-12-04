@@ -5,7 +5,7 @@
 ### Programming
 
 Adventure Game(/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/grim-reaper-png.html?raw=true"/>
 
 ---
 Adopt A Robot(/pdf/sample_presentation.pdf)
